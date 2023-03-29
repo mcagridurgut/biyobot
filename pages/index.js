@@ -25,7 +25,7 @@ export default function Home() {
   const [mobileMenu, setMobileMenu] = useState(false);
 
   const { user, googleLogin, logout } = useAuth();
-  const endpoint = process.env.API_ENDPOINT || "http://localhost:3000";
+  const endpoint = process.env.API_ENDPOINT || "https://bilkentpc.com";
 
   const color = "bg-gray-400";
   const bgImage = "/1.jpg";
