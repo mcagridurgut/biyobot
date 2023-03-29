@@ -452,9 +452,9 @@ export default function Home() {
                         istiyorsanız form üzerinden bana ulaşabilirsiniz.
                       </p>
                       <p className=" mt-4">
-                        Biyobotu şuanda yalnızca openAI'ın sağladığı 18$'lık
-                        krediyle geliştiriyorum. İlginizi çektiyse aşağıdaki
-                        linklerden destekte bulunabilirsiniz.
+                        Biyobotu şuanda yalnızca openAI{"'"}ın sağladığı 18$
+                        {"'"}lık krediyle geliştiriyorum. İlginizi çektiyse
+                        aşağıdaki linklerden destekte bulunabilirsiniz.
                       </p>
                     </div>
                   )}
@@ -539,9 +539,9 @@ export default function Home() {
                           ulaşabilirsiniz.
                         </p>
                         <p className=" mt-4">
-                          Biyobotu şuanda yalnızca openAI'ın sağladığı 18$'lık
-                          krediyle geliştiriyorum. Bu nedenle proje ilginizi
-                          çektiyse destekte bulunabilirsiniz.
+                          Biyobotu şuanda yalnızca openAI{"'"}ın sağladığı 18$
+                          {"'"}lık krediyle geliştiriyorum. Bu nedenle proje
+                          ilginizi çektiyse destekte bulunabilirsiniz.
                         </p>
                       </div>
                     </>
